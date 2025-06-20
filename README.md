@@ -1,6 +1,5 @@
 # Hi 👋, I'm Adai Illanes Gutierrez
-A passionate Systems Engineer, Full Stack Developer, and QA Tester from Bolivia
-📊 Currently, I am in my 8th semester of Systems Engineering at Universidad Católica Boliviana "San Pablo".
+I am a Systems Engineering student with experience in software development, passionate about technology and creating new projects. I have the ability to learn quickly and adapt to different environments. I seek to grow through meaningful projects that promote learning, innovation, teamwork, and collective growthñ
 Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angular" width="40" height="40"/>
@@ -36,5 +35,7 @@ Connect with me:
 </p>
 
 📍 Location: Cochabamba, Bolivia
+
 🎓 Education: Systems Engineering - Universidad Católica Boliviana "San Pablo"
-💼 Current Focus: Full Stack Development, QA Testing, IoT Solutions
+
+
