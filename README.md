@@ -1,6 +1,9 @@
 # Hi 👋, I'm Adai Illanes Gutierrez
-I am a Systems Engineering student with experience in software development, passionate about technology and creating new projects. I have the ability to learn quickly and adapt to different environments. I seek to grow through meaningful projects that promote learning, innovation, teamwork, and collective growthñ
-Languages and Tools:
+
+I am a Systems Engineering student with experience in software development, passionate about technology and creating new projects. I have the ability to learn quickly and adapt to different environments. I seek to grow through meaningful projects that promote learning, innovation, teamwork, and collective growth.
+
+## 🛠️ Languages and Tools
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angular" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/>
@@ -22,20 +25,23 @@ Languages and Tools:
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
-Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdaiIllanesGutierrez&show_icons=true&locale=en&layout=compact" alt="AdaiIllanesGutierrez" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdaiIllanesGutierrez&show_icons=true&locale=en" alt="AdaiIllanesGutierrez" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdaiIllanesGutierrez&" alt="AdaiIllanesGutierrez" /></p>
 
-Connect with me:
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdaiIllanesGutierrez&layout=compact&langs_count=8&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdaiIllanesGutierrez&show_icons=true&theme=tokyonight)
+
+</div>
+
+## 🤝 Connect with me:
+
 <p align="left">
 <a href="mailto:illanesgutierrezadai@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://linkedin.com/in/adai-illanes-gutierrez-a18b36237" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/adai-illanes-gutierrez-a18b8b237" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://github.com/AdaiIllanesGutierrez" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
-📍 Location: Cochabamba, Bolivia
-
-🎓 Education: Systems Engineering - Universidad Católica Boliviana "San Pablo"
-
-
+📍 **Location:** Cochabamba, Bolivia  
+🎓 **Education:** Systems Engineering - Universidad Católica Boliviana "San Pablo"
